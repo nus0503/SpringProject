@@ -1,0 +1,67 @@
+@charset "UTF-8";
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+}
+#wrap {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+header a {
+  text-decoration: none;
+}
+h1 {
+  margin-top: 100px;
+  font-size: 50px;
+  margin-bottom: 50px;
+  font-family: "Anton", sans-serif;
+  color: #1b683a;
+}
+.id_input div {
+  display: inline;
+}
+.pw_input div {
+  display: inline;
+}
+img {
+  width: 20px;
+}
+.id_pw_wrap {
+  padding: 20px;
+  border: 1px solid rgb(192, 183, 183);
+}
+#id,
+#pw {
+  width: 400px;
+  height: 35px;
+  display: inline;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.buttonDIV {
+  margin-top: 30px;
+  border-radius: 6px;
+}
+.buttonDIV button {
+  width: 430px;
+  font-size: 25px;
+}
+ul {
+  list-style: none;
+  display: inline-flex;
+  padding: 0;
+}
+ul li {
+  padding: 30px;
+}
+ul li a {
+  text-decoration: none;
+  color: #888;
+}
+footer:first-child {
+  margin-top: 50px;
+}
