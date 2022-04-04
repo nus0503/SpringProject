@@ -17,7 +17,7 @@
 <body>
     <div id="wrap">
         <header>
-            <a href="/index.html"><h1>FoodTruck</h1></a> 
+            <a href="main"><h1>FoodTruck</h1></a> 
         </header>
         <div id="content" class="content">
             <div class="login_wrap">
@@ -45,9 +45,9 @@
             </div>
         </div>
         <ul>
-            <li><a href="/searchID.html">아이디 찾기</a></li>
-            <li><a href="/searchPW.html">비밀번호 찾기</a></li>
-            <li><a href="/sign_up">회원가입</a></li>
+            <li><a href="search_id">아이디 찾기</a></li>
+            <li><a href="search_pw">비밀번호 찾기</a></li>
+            <li><a href="sign_up">회원가입</a></li>
         </ul>
         <footer>
             <div>

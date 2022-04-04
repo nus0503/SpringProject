@@ -17,10 +17,10 @@
 <body>
     <div class="container">
         <header>
-            <a href="/index.html"><h1>FoodTruck</h1></a>
+            <a href="main"><h1>FoodTruck</h1></a>
         </header>
         <div>
-            <form action="/post/sign_up" id="signUp" method="post">
+            <form action="/sign_up" id="signUp" method="post">
                 <div class="sign_up_wrap">
                     <input type="text" id="name" class="form-control" name="name" placeholder="이름">
                     <input type="text" id="id" class="form-control" name="id" placeholder="아이디">
